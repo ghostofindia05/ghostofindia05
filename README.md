@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna AKA ghost</h1>
 <h3 align="center">Cyber security enthusiast and tech nerd</h3>
 
-- 🔭 I’m currently working on [SOC home lab](https://chat.whatsapp.com/GImLfLQXMS7GLgoEkKZs0R)
+- 🔭 I’m currently working as [SOC ANALYST]
 
 - 🌱 I’m currently learning **Pg in cyber security**
 
@@ -15,7 +15,8 @@
 
 - ⚡ Fun fact **I LOVE BIRIYANI**
 
-
+-Present i am doing home soc lab I am using splunk as SIEM,and wahuz as EDR, Opnsense as network firewall, Zenarmor as WAF
+-curenty i stuck at active directory configuration i really appreciate any kinda help :-)
 <p align="left">
 </p>
 
