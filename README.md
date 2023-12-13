@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I LOVE BIRIYANI**
 
 -Present i am doing home soc lab I am using splunk as SIEM,and wahuz as EDR, Opnsense as network firewall, Zenarmor as WAF
--curenty i stuck at active directory configuration i really appreciate any kinda help :-)
+.curenty i stuck at active directory configuration i really appreciate any kinda help :-)
 <p align="left">
 </p>
 
