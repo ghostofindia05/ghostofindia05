@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working as [SOC ANALYST]
 
-- 🌱 I’m currently learning **Pg in cyber security**
-
 - 👯 I’m looking to collaborate on [Soc home lab](https://chat.whatsapp.com/GImLfLQXMS7GLgoEkKZs0R)
 
 - 💬 Ask me about **SIEM(rapid7 idr,Splunk,wahuz)EDR,IPS/IDS, FIREWALL**
@@ -15,8 +13,7 @@
 
 - ⚡ Fun fact **I LOVE BIRIYANI**
 
--Present i am doing home soc lab I am using splunk as SIEM,and wahuz as EDR, Opnsense as network firewall, Zenarmor as WAF
-.curenty i stuck at active directory configuration i really appreciate any kinda help :-)
+-Present i am doing home soc lab(https://www.youtube.com/@in_ghost05) I am using splunk as SIEM,and wahuz as EDR, Opnsense as network firewall, Zenarmor as WAF,Authentik as IDP,Netbird as VPN  :-)
 <p align="left">
 </p>
 
