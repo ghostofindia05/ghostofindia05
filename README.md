@@ -9,9 +9,12 @@
 
 - 📫 How to reach me **bollakrishna05@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ghostofindia05/My/blob/main/Resume_Krishna.pdf](https://github.com/ghostofindia05/My/blob/main/Resume_Krishna.pdf)
+- 📄 Know about my experiences
+  
 
 - ⚡ Fun fact **I LOVE BIRIYANI**
+
+i WILL UPDATE THIS IN FUTURE.
 
 -Present i am doing home soc lab(https://www.youtube.com/@in_ghost05) I am using splunk as SIEM,and wahuz as EDR, Opnsense as network firewall, Zenarmor as WAF,Authentik as IDP,Netbird as VPN  :-)
 <p align="left">
