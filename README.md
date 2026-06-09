@@ -5,7 +5,7 @@
 
 ---
 
-Welcome to my GitHub profile! I am a passionate cybersecurity professional with over two years of experience in Security Operations, specializing in malware analysis, digital forensics, and SOC automation. I love hunting threats, analyzing logs, and engineering robust security monitoring solutions.
+Welcome to my GitHub profile! I am a passionate cybersecurity professional working as SOC engineer, specializing in malware analysis, digital forensics, and SOC automation. I love hunting threats, analyzing logs, and engineering robust security monitoring solutions.
 
 ### 🕵️‍♂️ About Me
 
