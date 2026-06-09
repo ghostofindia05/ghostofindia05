@@ -50,15 +50,3 @@ Welcome to my GitHub profile! I am a passionate cybersecurity professional worki
 * **Log Configuration:** Windows Event Logs, Sysmon, Linux `auditd`
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghostofindia05&show_icons=true&theme=radical" alt="Krishna's GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <i>"In the world of security, the best defense is a proactive, well-engineered offense."</i>
-</div>
